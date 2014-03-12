@@ -1,0 +1,20 @@
+Dit is een standalone earthcoin Wallet voor uw Android apparaat. U kan direct earthcoins versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
+
+FUNCTIES:
+
+• Weergeven van het wallet saldo in earthcoin en verschillende andere valuta.
+• Verzenden en ontvangen van earthcoin via NFC, QR-codes of earthcoin URLs.
+• Adresboek voor veelgebruikte earthcoin adressen.
+• Transacties ingeven tijdens het offline zijn, deze zullen worden uitgevoerd wanneer u online komt.
+• Systeem melding over earthcoin connectiviteit en ontvangen earthcoins.
+• Widget voor earthcoin saldo.
+
+Voor meer informatie over earthcoin kunt u terecht op
+http://earthcoin.co
+
+Als u een bijdrage wil leveren aan earthcoin Wallet, het project is te vinden op
+https://github.com/earthcoin/android/earthcoin-wallet
+
+Licentie: GPLv3
+Gebruik op eigen risico!
+http://www.gnu.org/licenses/gpl-3.0.en.html

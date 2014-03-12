@@ -1,0 +1,22 @@
+Tenha os seus earthcoins sempre com você, no seu bolso! Efetue pagamentos rapidamente apenas escaneando um código QR​​. Como comerciante, você pode receber pagamentos de forma confiável e instantaneamente. O earthcoin Wallet é o primeiro aplicativo earthcoin móvel, e, possivelmente, o mais seguro!
+
+CARACTERÍSTICAS:
+
+• Sem necessidade de cadastro, serviço web ou hospedagem! Esta carteira é descentralizada e "peer to peer".
+• Exibe a quantidade de earthcoins em BTC e mBTC.
+• Conversão para moedas nacionais.
+• Envio e recebimento de earthcoins via NFC, códigos QR ou endereços earthcoin.
+• Catálogo para guardar os endereços mais utilizados.
+• Quando você estiver off-line, você ainda pode pagar via Bluetooth.
+• Notificações do sistema para moedas recebidas.
+• Widget para saldo de Bitcoins.
+
+Mais informações sobre earthcoin em
+http://earthcoin.co
+
+Se você deseja contribuir com o earthcoin Wallet, o projeto encontra-se em
+https://github.com/earthcoin/android/earthcoin-wallet
+
+Licença: GPLv3
+Use por sua conta e risco!
+http://www.gnu.org/licenses/gpl-3.0.en.html

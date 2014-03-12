@@ -1,0 +1,20 @@
+Samodzielny portfel earthcoin dla Twojego urządzenia Android. Możesz wysyłać earthcoin pomiędzy telefonami skanując kod QR, który jest wyświetlany przez aplikacje, lub przez NFC (Near Field Communication).
+
+FUNKCJE:
+
+• Wyświetlanie stanu konta portfela w earthcoin i rożnych innych walutach.
+• Wysyłanie i odbieranie earthcoin przez NFC, kod QR albo earthcoin URL.
+• Książka adresowa dla regularnie używanych adresów earthcoin.
+• Możliwość dodania transakcji offline, wykonywanych po połączeniu z siecią.
+• Notyfikacje systemowe o połączeniu z siecią earthcoin i otrzymanych monetach.
+• Widget na stan konta earthcoin.
+
+Więcej o earthcoin dowiesz się pod adresem:
+http://earthcoin.co
+
+Jeżeli chcesz wesprzeć earthcoin Wallet, kody źródłowe projektu znajdują się pod adresem:
+https://github.com/earthcoin/android/earthcoin-wallet
+
+Licencja: GPLv3
+Używanie jedynie na własne ryzyko!
+http://www.gnu.org/licenses/gpl-3.0.en.html
