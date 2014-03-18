@@ -140,7 +140,7 @@ public final class SendCoinsFragment extends SherlockFragment
 
 	private AddressAndLabel validatedAddress = null;
 	private boolean isValidAmounts = false;
-	private String txComment;
+	private String txComment = "";
 
 	@CheckForNull
 	private String bluetoothMac;
