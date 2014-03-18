@@ -25,6 +25,7 @@ import com.google.common.collect.ImmutableMap;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.spongycastle.crypto.params.KeyParameter;
+import com.google.common.base.Charsets;
 
 import javax.annotation.Nullable;
 import java.io.*;
@@ -1059,16 +1060,13 @@ public class Transaction extends ChildMessage implements Serializable {
 
         if(version > 1)
         {
-            VarInt size = new VarInt(0);
-            byte[] txBytes = new byte[0];
-
-            if(txCommentStr != null)
-            {
-                size = new VarInt(txCommentStr.length());
-                txBytes = txCommentStr.getBytes();
+            if(txCommentStr == null){
+                txCommentStr = " ";
             }
 
-            stream.write(size.encode());
+            byte[] txBytes = txCommentStr.getBytes(Charsets.UTF_8);
+
+            stream.write(new VarInt(txBytes.length).encode());
             stream.write(txBytes);
 		}
     }
